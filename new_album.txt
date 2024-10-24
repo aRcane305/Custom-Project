@@ -1,43 +1,43 @@
 Goodbye Girl
 David Gates
 Rhino - Elektra
-/images/Goodbye_Girl.jpg
+Goodbye_Girl.jpg
 1978
 1
 12
 Goodbye Girl
-/music/Goodbye_Girl/01_-_Goodbye_Girl.ogg
+01_-_Goodbye_Girl.ogg
 2:49
 Took the Last Train
-/music/Goodbye_Girl/02_-_Took_the_Last_Train.ogg
+02_-_Took_the_Last_Train.ogg
 4:32
 Overnight Sensation
-/music/Goodbye_Girl/03_-_Overnight_Sensation.ogg
+03_-_Overnight_Sensation.ogg
 5:03
 California Lady
-/music/Goodbye_Girl/04_-_California_Lady.ogg
+04_-_California_Lady.ogg
 3:55
 Ann
-/music/Goodbye_Girl/05_-_Ann.ogg
+05_-_Ann.ogg
 3:51
 Drifter
-/music/Goodbye_Girl/06_-_Drifter.ogg
+06_-_Drifter.ogg
 3:42
 He Don't Know How to Love You
-/music/Goodbye_Girl/07_-_He_Don't_Know_How_to_Love_You.ogg
+07_-_He_Don't_Know_How_to_Love_You.ogg
 2:43
 Clouds Suite
-/music/Goodbye_Girl/08_-_Clouds_Suite.ogg
+08_-_Clouds_Suite.ogg
 8:56
 Lorilee
-/music/Goodbye_Girl/09_-_Lorilee.ogg
+09_-_Lorilee.ogg
 4:45
 Part-Time Love
-/music/Goodbye_Girl/10_-_Part-Time_Love.ogg
+10_-_Part-Time_Love.ogg
 2:26
 Sunday Rider
-/music/Goodbye_Girl/11_-_Sunday_Rider.ogg
+11_-_Sunday_Rider.ogg
 3:23
 Never Let Her Go
-/music/Goodbye_Girl/12_-_Never_Let_Her_Go.ogg
+12_-_Never_Let_Her_Go.ogg
 3:08
