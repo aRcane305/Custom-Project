@@ -2,49 +2,49 @@
 Another Friday Night
 Joel Corry
 Atlantic Records UK
-Another_Friday_Night.jpg
+Another Friday Night.jpg
 2023
 2
 13
 Desire
-01_-_Desire.ogg
-2:39
+01 - Desire.ogg
+159
 0800 Heaven
-02_-_0800_Heaven.ogg
-2:39
+02 - 0800 Heaven.ogg
+159
 Lionheart (Fearless)
-03_-_Lionheart_(Fearless).ogg
-3:06
+03 - Lionheart (Fearless).ogg
+187
 HISTORY
-04_-_HISTORY.ogg
-2:56
+04 - HISTORY.ogg
+177
 Head & Heart (feat. MNEK)
-05_-_Head_&_Heart_(feat._MNEK).ogg
-2:46
+05 - Head & Heart (feat. MNEK).ogg
+166
 BED
-06_-_BED.ogg
-2:58
+06 - BED.ogg
+178
 OUT OUT (feat. Charli XCX & Saweetie)
-07_-_OUT_OUT_(feat._Charli_XCX_&_Saweetie).ogg
-2:42
+07 - OUT OUT (feat. Charli XCX & Saweetie).ogg
+163
 Dance Around It
-08_-_Dance_Around_It.ogg
-2:24
+08 - Dance Around It.ogg
+145
 Do U Want Me Baby? (feat. Elphi)
-09_-_Do_U_Want_Me_Baby__(feat._Elphi).ogg
-2:23
+09 - Do U Want Me Baby  (feat. Elphi).ogg
+143
 Sorry
-10_-_Sorry.ogg
-3:08
+10 - Sorry.ogg
+189
 Lonely
-11_-_Lonely.ogg
-3:10
+11 - Lonely.ogg
+191
 I Wish (feat. Mabel)
-12_-_I_Wish_(feat._Mabel).ogg
-3:01
+12 - I Wish (feat. Mabel).ogg
+182
 What Would You Do?
-13_-_What_Would_You_Do_.ogg
-2:54
+13 - What Would You Do .ogg
+174
 ASTROWORLD
 Travis Scott
 Cactus Jack - Epic
@@ -53,93 +53,93 @@ ASTROWORLD.jpg
 3
 17
 STARGAZING
-01_-_STARGAZING.ogg
-4:31
+01 - STARGAZING.ogg
+271
 CAROUSEL
-02_-_CAROUSEL.ogg
-3:00
+02 - CAROUSEL.ogg
+180
 SICKO MODE
-03_-_SICKO_MODE.ogg
-5:13
+03 - SICKO MODE.ogg
+313
 R.I.P. SCREW
-04_-_R.I.P._SCREW.ogg
-3:06
+04 - R.I.P. SCREW.ogg
+186
 STOP TRYING TO BE GOD
-05_-_STOP_TRYING_TO_BE_GOD.ogg
-5:38
+05 - STOP TRYING TO BE GOD.ogg
+338
 NO BYSTANDERS
-06_-_NO_BYSTANDERS.ogg
-3:38
+06 - NO BYSTANDERS.ogg
+218
 SKELETONS
-07_-_SKELETONS.ogg
-2:26
+07 - SKELETONS.ogg
+146
 WAKE UP
-08_-_WAKE_UP.ogg
-3:52
+08 - WAKE UP.ogg
+232
 5% TINT
-09_-_5%_TINT.ogg
-3:16
+09 - 5% TINT.ogg
+196
 NC-17
-10_-_NC-17.ogg
-2:37
+10 - NC-17.ogg
+157
 ASTROTHUNDER
-11_-_ASTROTHUNDER.ogg
-2:23
+11 - ASTROTHUNDER.ogg
+143
 YOSEMITE
-12_-_YOSEMITE.ogg
-2:30
-CAN'T_SAY
-13_-_CAN'T_SAY.ogg
-3:18
+12 - YOSEMITE.ogg
+150
+CAN'T SAY
+13 - CAN'T SAY.ogg
+198
 WHO? WHAT!
-14_-_WHO__WHAT!.ogg
-2:57
+14 - WHO  WHAT!.ogg
+177
 BUTTERFLY EFFECT
-15_-_BUTTERFLY_EFFECT.ogg
-3:11
+15 - BUTTERFLY EFFECT.ogg
+191
 HOUSTONFORNICATION
-16_-_HOUSTONFORNICATION.ogg
-3:38
+16 - HOUSTONFORNICATION.ogg
+218
 COFFEE BEAN
-17_-_COFFEE_BEAN.ogg
-3:29
+17 - COFFEE BEAN.ogg
+209
 Little Dark Age
 MGMT
 Columbia
-Little_Dark_Age.jpg
+Little Dark Age.jpg
 2018
 8
 10
 She Works Out Too Much
-01_-_She_Works_Out_Too_Much.ogg
-4:38
+01 - She Works Out Too Much.ogg
+278
 Little Dark Age
-02_-_Little_Dark_Age.ogg
-5:00
+02 - Little Dark Age.ogg
+300
 When You Die
-03_-_When_You_Die.ogg
-4:24
+03 - When You Die.ogg
+264
 Me and Michael
-04_-_Me_and_Michael.ogg
-4:50
+04 - Me and Michael.ogg
+290
 TSLAMP
-05_-_TSLAMP.ogg
-4:30
+05 - TSLAMP.ogg
+270
 James
-06_-_James.ogg
-3:53
+06 - James.ogg
+233
 Days That Got Away
-07_-_Days_That_Got_Away.ogg
-4:45
+07 - Days That Got Away.ogg
+285
 One Thing Left to Try
-08_-_One_Thing_Left_to_Try.ogg
-4:20
+08 - One Thing Left to Try.ogg
+260
 When You're Small
-09_-_When_You're_Small.ogg
-3:31
+09 - When You're Small.ogg
+211
 Hand It Over
-10_-_Hand_It_Over.ogg
-4:14
+10 - Hand It Over.ogg
+254
 Thriller
 Michael Jackson
 Epic
@@ -147,31 +147,31 @@ Thriller.jpg
 1982
 6
 9
-Wanna Be Startin' Somethin' (Album Version)
-01_-_Wanna_Be_Startin'_Somethin'_(Album_Version).ogg
-6:03
-Baby Be Mine (Album Version)
-02_-_Baby_Be_Mine_(Album_Version).ogg
-4:20
-The Girl Is Mine (with Paul McCartney) (Album Version)
-03_-_The_Girl_Is_Mine_(with_Paul_McCartney)_(Album_Version).ogg
-3:42
-Thriller (Album Version)
-04_-_Thriller_(Album_Version).ogg
-5:59
+Wanna Be Startin' Somethin'
+01 - Wanna Be Startin' Somethin' (Album Version).ogg
+363
+Baby Be Mine
+02 - Baby Be Mine (Album Version).ogg
+260
+The Girl Is Mine (with Paul McCartney)
+03 - The Girl Is Mine (with Paul McCartney) (Album Version).ogg
+222
+Thriller
+04 - Thriller (Album Version).ogg
+359
 Beat It
-05_-_Beat_It.ogg
-4:18
-Billie Jean (Single Version)
-06_-_Billie_Jean_(Single_Version).ogg
-4:54
-Human Nature (Album Version)
-07_-_Human_Nature_(Album_Version).ogg
-4:06
-P.Y.T. (Pretty Young Thing) (Album Version)
-08_-_P.Y.T._(Pretty_Young_Thing)_(Album_Version).ogg
-3:58
-The Lady in My Life (Album Version)
-09_-_The_Lady_in_My_Life_(Album_Version).ogg
-4:58
+05 - Beat It.ogg
+258
+Billie Jean
+06 - Billie Jean (Single Version).ogg
+294
+Human Nature
+07 - Human Nature (Album Version).ogg
+246
+P.Y.T. (Pretty Young Thing)
+08 - P.Y.T. (Pretty Young Thing) (Album Version).ogg
+238
+The Lady in My Life
+09 - The Lady in My Life (Album Version).ogg
+298
 
